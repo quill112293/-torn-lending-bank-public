@@ -16,7 +16,7 @@
     {
       "binding": "DB",
       "database_name": "torn-lending-bank-public",
-      "database_id": "REPLACE_WITH_NEW_PUBLIC_DATABASE_ID",
+      "database_id": "3e761715-8d42-4dc1-9fd5-039b16adf6ef",
       "migrations_dir": "migrations"
     }
   ],
